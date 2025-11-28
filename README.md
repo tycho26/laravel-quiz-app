@@ -8,7 +8,6 @@
     - optie om een multiple choice vraag te maken
         - vraag invullen
         - min 2, max 4 antwoorden aanmaken
-        - mogelijkheid om meerdere antwoorden te markeren als 'correct'
 - Aanmaken van quizzen
     - optie om quiz een naam te geven
 - Verwijderen van vragen binnen een quiz
@@ -23,6 +22,7 @@
 ### Should have
 - Aanmaken van nieuwe vragen binnen een quiz
     - optie om een open vraag te maken
+    - mogelijkheid om meerdere antwoorden te markeren als 'correct'
 - Aanpassen van vragen binnen een quiz
     - Vraag aanpassen
     - Antwoorden aanpassen
