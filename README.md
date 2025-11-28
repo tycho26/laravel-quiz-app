@@ -1,4 +1,4 @@
-# laravel-quiz-app
+# Laravel Quiz App
 
 ## Functionaliteiten
 
